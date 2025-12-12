@@ -17,7 +17,9 @@ This project is a full-stack Data Engineering pipeline that ingests, processes, 
 4.  **Visualize:** Streamlit dashboard reads directly from the Data Lake.
 
 ## Screenshots
-*(Add screenshots of your Airflow DAG and Streamlit Dashboard here)*
+<img width="1867" height="1086" alt="image" src="https://github.com/user-attachments/assets/5c0d8532-9677-4213-b5b1-a50192b19871" />
+
+
 
 ## How to Run
 1.  Install dependencies: `pip install -r requirements.txt`
