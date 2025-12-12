@@ -18,6 +18,8 @@ This project is a full-stack Data Engineering pipeline that ingests, processes, 
 
 ## Screenshots
 <img width="1867" height="1086" alt="image" src="https://github.com/user-attachments/assets/5c0d8532-9677-4213-b5b1-a50192b19871" />
+<img width="1867" height="1086" alt="image" src="https://github.com/user-attachments/assets/668e90d4-9ed9-48fb-afc6-90a3dffe9454" />
+
 
 
 
