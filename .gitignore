@@ -1,0 +1,19 @@
+# Ignore Data
+datalake/
+*.csv
+*.parquet
+
+# Ignore Virtual Env
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Airflow System Files
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg
+airflow/webserver_config.py
+
+# Ignore IDE settings
+.vscode/
+.DS_Store
